@@ -1,0 +1,71 @@
+body{
+	margin:0px;
+}
+
+.div1{
+	border: 2px solid yellow;
+	position: relative;
+	overflow: auto;
+}
+.div2{
+	border: 3px solid pink;
+	position: relative;
+	overflow: auto;
+	height: 200px;
+}
+.maindiv{
+	border:2px solid green;
+	float: left;
+position: relative;
+height: 608px;
+width: 25%;
+}
+
+.top1{
+	border:4px solid red;
+		float:left;
+		height:192px;
+		width:50%;
+}
+.top2{
+border: 4px solid blue;
+position: relative;
+float: left;
+height:192px;
+width: 48.35%;
+
+}
+.middle{
+	border:4px solid orange;
+	position: relative;
+	overflow: auto;
+	height: 200px;
+}
+.bottom{
+	border:4px solid black;
+	position: relative;
+	float: left;	
+	height: 190px;
+	width: 74%;
+}
+.bot1{
+	border:4px solid violet;
+	position: relative;
+	float: left;	
+	height: 183px;
+	width: 33%;
+}
+.bot2{
+	border:4px solid gray;
+	position: relative;
+	float: left;
+	height: 183px;
+	width: 33%;
+}.bot3{
+	border:4px solid brown;
+	position: relative;
+	float: left;
+	height: 183px;
+	width: 31.6%;
+}
+}
